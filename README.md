@@ -58,5 +58,4 @@ cargo run -p xdk-build -- python --spec path/to/openapi.yaml --output path/to/ou
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file (if available) or individual crate licenses for details. 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
